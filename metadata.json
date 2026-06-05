@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "predictions_version": 1,
+  "predictions_file": "predictions_v1.json",
+  "predictions_url": "https://SEU_USUARIO.github.io/copa-2026-predictions/data/predictions_v1.json",
+  "updated_at": "2026-06-05T12:00:00Z"
+}
